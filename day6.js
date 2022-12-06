@@ -1,6 +1,6 @@
 // @ts-check
 
-const CHARACTERS = 4;
+const CHARACTERS = 14;
 const input = getInput();
 
 for (let i = 0; i < input.length; i += 1) {
